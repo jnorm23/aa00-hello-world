@@ -7,15 +7,7 @@ Closely follow the syntax of the given `console.log` example.
 
 // Here is an example of using console.log to print: Hello World!:
 
-console.log('Hello World!');
 
-let marlon = "Marlon";
-
-let lastLetter = marlon[marlon.length - 1];
-
-console.log(lastLetter);
-
-"HIIIII!!!!!"
 
 // Print out your own message using console.log below:
 
