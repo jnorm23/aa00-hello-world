@@ -15,6 +15,8 @@ let lastLetter = marlon[marlon.length - 1];
 
 console.log(lastLetter);
 
+"HIIIII!!!!!"
+
 // Print out your own message using console.log below:
 
 // Your code here 
